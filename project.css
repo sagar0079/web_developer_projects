@@ -1,0 +1,60 @@
+h1{
+
+  text-align: center;
+}
+h2{
+
+}
+
+p{
+  width: 50%;
+  margin: auto;
+}
+
+#one{
+  margin-top: 50px;
+  font-style: normal;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#two{
+  margin-top: 50px;
+  font-style: normal;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input{
+  text-align: center;
+}
+
+.FN{
+  text-align: center;
+}
+body{
+  background: black;
+
+}
+body{
+
+  color: white;
+  border-bottom: 60px solid #37faf3;
+  border-right: 0px solid #34e7ed;
+  border-left:  0px solid #34e7ed;
+  text-align: center;
+  margin: 0px;
+  border-right: 30px solid #37faf3;
+  border-left: 30px solid #37faf3;
+
+}
+#sub{
+  margin-top: 10px;
+  font-size: 20px;
+  height: 80px;
+  width: 170px;
+  border-radius: 15px;
+  background-color: #f0f071;
+}
+form{
+  margin-bottom: 5px;
+}
